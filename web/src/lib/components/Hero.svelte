@@ -23,7 +23,7 @@
         <h1
             class="text-4xl md:text-6xl font-black tracking-tight text-white mb-2 selection:bg-cyan-500/30"
         >
-            ChamGPT <span
+            Chamod's ChatGPT <span
                 class="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-teal-400"
                 >Wrapped</span
             >
