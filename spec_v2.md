@@ -1,4 +1,4 @@
-# ChamGPT Wrapped 2025 – Alignment Mission Control  
+# Chamod'sChatGPT Wrapped 2025 – Alignment Mission Control  
 _spec.md (v2 – richer + featureful)_
 
 ## 1. Product Summary
@@ -81,7 +81,7 @@ Global elements:
 ### 4.1 Hero Section: Alignment Mission Control
 
 **Title:**  
-- `ChamGPT Wrapped 2025: Alignment Mission Control`
+- `Chamod's ChatGPT Wrapped 2025: Alignment Mission Control`
 
 **Hero Summary (two lines):**
 - `You turned ChatGPT into your alignment lab, debugging console, and life storyboard.`
@@ -125,9 +125,9 @@ _Implementation detail:_ mood bar can be a simple flex bar with widths defined i
 
 Short “executive summary” card just under the hero:
 
-- Title: `ChamGPT in One Paragraph`
+- Title: `Chamod's ChatGPT Wrapped 2025 in One Paragraph`
 - Text (example):  
-  > “In 2025, you used ChatGPT as a combined interpretability lab, ops console, and life planning co-pilot. You shipped multi-platform apps for clients, debugged gnarly infra issues, trained for AI safety fellowships, and built internal tools (risk calculators, forecasting dashboards) – all while slowly turning your existing skillset into alignment-focused leverage.”
+  > “In 2025, you used ChatGPT as a combined` interpretability lab, ops console, and life planning co-pilot. You shipped multi-platform apps for clients, debugged gnarly infra issues, trained for AI safety fellowships, and built internal tools (risk calculators, forecasting dashboards) – all while slowly turning your existing skillset into alignment-focused leverage.”
 
 ---
 
@@ -362,7 +362,7 @@ You can vibe implementation, but suggested components:
   - Handles theme toggle, background, and global padding.
 
 - `<TopNav>`
-  - Title (“ChamGPT Wrapped 2025”)
+  - Title (“Chamod's ChatGPT Wrapped 2025”)
   - Theme toggle (light/dark)
   - A small button to restart **guided tour**
 
